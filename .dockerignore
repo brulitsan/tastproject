@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+database_data
+docker-compose.yaml
+Dockerfile
+README.md
